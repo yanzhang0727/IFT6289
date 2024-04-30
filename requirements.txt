@@ -1,0 +1,13 @@
+torch==2.2.1
+transformers==4.33.0 
+accelerate==0.22.0 
+einops==0.6.1 
+xformers==0.0.21 
+bitsandbytes==0.41.1 
+datasets==2.14.0
+language_tool_python
+chromadb
+langchain
+openai 
+weaviate-client 
+ragas
