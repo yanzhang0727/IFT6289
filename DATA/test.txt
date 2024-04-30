@@ -1,0 +1,22 @@
+,Request,Category
+0,I would like to implement a CNN using python. ,Code_Advice
+1, I'd be appreciate if you could help me with my bubble sort algorithm that doesn't seem to work properly.,Code_Advice
+2,I would like to use regex to filter out the hashtags in a string.,Code_Advice
+3,Can you give me an example of how to use Java SpringBoot?,Code_Advice
+4,Could you please help me speed up my SQL queries ?,Code_Advice
+5,My C code has a memory leak issue can you please help me find out where it is? ,Code_Advice
+6,Can you please remind me tommorrow for my Interview with QOP company?,Schedule_Arrangement
+7,I would like to have a trip for a week in April. ,Schedule_Arrangement
+8,I'd be appreciate if you could help me find the most suitable date to buy Airplane ticket to USA this summer.,Schedule_Arrangement
+9,Please cancel the reminder of my MRI appointment for tommorrow. ,Schedule_Arrangement
+10,Remind me to wake up when September ends.,Schedule_Arrangement
+11,Does this sentence have any grammatical issues:"Yes I are very happiii."?,Grammar_Correction
+12,I'm not an English native speaker and I wrote this sentence can you help me correct it:"Of course I would very much like it"?,Grammar_Correction
+13,I think this sentence is not correct:"You is my sunshine".,Grammar_Correction
+14,Please tell me if this document contains any kinda of errors?,Grammar_Correction
+15,Correct this sentence:"Blues is gone cuz Country Jesus left Chicago".,Grammar_Correction
+16,Tell me how much is five times four and then divided by 3,Math_Calculation
+17,How many apples are there in total if I have two apple and Billy have five.,Math_Calculation
+18,What is the root of five times four?,Math_Calculation
+19,Please find out the result of one plus four hundred and three.,Math_Calculation
+20,I'd be appreciate if you could tell me how much is fourty hundred plus five.,Math_Calculation

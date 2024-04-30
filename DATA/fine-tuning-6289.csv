@@ -1,0 +1,436 @@
+,Request,Category
+0,Could you possibly assist in debugging this network protocol code?,Code_Advice
+1,Would you be so kind as to suggest optimization strategies for our current algorithms?,Code_Advice
+2,I’d appreciate if you could review the security features in my app.,Code_Advice
+3,It would be great if you could help refine the UI interactions in our frontend code.,Code_Advice
+4,Please explore opportunities to enhance the database performance.,Code_Advice
+5,I would be grateful if you could assess our cloud infrastructure's code.,Code_Advice
+6,Could you offer your expertise on implementing MVC architecture here?,Code_Advice
+7,Please provide guidance on asynchronous programming in this context.,Code_Advice
+8,Would you mind checking the efficiency of our batch processing scripts?,Code_Advice
+9,Could you evaluate the machine learning model's code for any biases?,Code_Advice
+10,Debug this network protocol code.,Code_Advice
+11,Suggest optimization strategies for these algorithms.,Code_Advice
+12,Review the security features in my app.,Code_Advice
+13,Refine the UI interactions in our frontend code.,Code_Advice
+14,Enhance the database performance.,Code_Advice
+15,Assess our cloud infrastructure's code.,Code_Advice
+16,Implement MVC architecture in this project.,Code_Advice
+17,Guide on asynchronous programming here.,Code_Advice
+18,Check our batch processing scripts for efficiency.,Code_Advice
+19,Evaluate this machine learning model for biases.,Code_Advice
+20,Could you kindly arrange an off-site meeting for the project team?,Schedule_Arrangement
+21,Would you please schedule a product launch event for next quarter?,Schedule_Arrangement
+22,I’d appreciate if you could handle the reservations for our annual gala.,Schedule_Arrangement
+23,It would be helpful if you could coordinate the logistics for the upcoming seminar.,Schedule_Arrangement
+24,Please plan a series of webinars starting next month.,Schedule_Arrangement
+25,Could you organize the setup for the virtual reality exhibit?,Schedule_Arrangement
+26,Would you take care of booking the venues for the trade shows?,Schedule_Arrangement
+27,Please arrange all the necessary equipment for the live broadcast.,Schedule_Arrangement
+28,Could you manage the guest list for the corporate anniversary?,Schedule_Arrangement
+29,I would value your help in scheduling the quarterly investor meetings.,Schedule_Arrangement
+30,Arrange an off-site meeting for the project team.,Schedule_Arrangement
+31,Schedule a product launch event for next quarter.,Schedule_Arrangement
+32,Handle the reservations for our annual gala.,Schedule_Arrangement
+33,Coordinate logistics for the upcoming seminar.,Schedule_Arrangement
+34,Plan a series of webinars starting next month.,Schedule_Arrangement
+35,Organize the setup for the virtual reality exhibit.,Schedule_Arrangement
+36,Book the venues for the trade shows.,Schedule_Arrangement
+37,Arrange the equipment for the live broadcast.,Schedule_Arrangement
+38,Manage the guest list for the corporate anniversary.,Schedule_Arrangement
+39,Schedule the quarterly investor meetings.,Schedule_Arrangement
+40,Could you kindly ensure this report is formatted correctly?,Grammar_Correction
+41,Would you mind adjusting the format of these slides to improve readability?,Grammar_Correction
+42,I’d appreciate if you could polish the grammar in these training manuals.,Grammar_Correction
+43,It would be great if you could simplify the text in our company newsletter.,Grammar_Correction
+44,Please check this legal document for any language inconsistencies.,Grammar_Correction
+45,Could you enhance the clarity of the terms and conditions?,Grammar_Correction
+46,Would you review the product descriptions for grammatical accuracy?,Grammar_Correction
+47,Please ensure this press release follows AP style guidelines.,Grammar_Correction
+48,Could you refine the language used in our customer emails?,Grammar_Correction
+49,I would be grateful if you could verify the spelling throughout this website.,Grammar_Correction
+50,Ensure this report is formatted correctly.,Grammar_Correction
+51,Adjust the format of these slides for better readability.,Grammar_Correction
+52,Polish the grammar in these training manuals.,Grammar_Correction
+53,Simplify the text in our company newsletter.,Grammar_Correction
+54,Check this legal document for language inconsistencies.,Grammar_Correction
+55,Enhance the clarity of the terms and conditions.,Grammar_Correction
+56,Review the product descriptions for grammatical accuracy.,Grammar_Correction
+57,Ensure this press release follows AP style guidelines.,Grammar_Correction
+58,Refine the language in our customer emails.,Grammar_Correction
+59,Verify the spelling throughout this website.,Grammar_Correction
+60,Could you possibly assist with refining the threading in this Java code?,Code_Advice
+61,I'd appreciate your insights on improving API calls in my application.,Code_Advice
+62,Would you be so kind as to evaluate the memory usage in this software?,Code_Advice
+63,It would be helpful if you could assess the scalability of this codebase.,Code_Advice
+64,Please consider reviewing my error logging for possible enhancements.,Code_Advice
+65,Could you lend your expertise to optimize this data processing script?,Code_Advice
+66,I would be thankful if you could look into the exception handling here.,Code_Advice
+67,Please advise on how to refactor this outdated module.,Code_Advice
+68,Could you explore potential security improvements for my web app?,Code_Advice
+69,Would you mind auditing this piece of code for compliance with coding standards?,Code_Advice
+70,Refine the threading in this Java code.,Code_Advice
+71,Improve API calls in my application.,Code_Advice
+72,Evaluate the memory usage in this software.,Code_Advice
+73,Assess the scalability of this codebase.,Code_Advice
+74,Review my error logging for improvements.,Code_Advice
+75,Optimize this data processing script.,Code_Advice
+76,Look into the exception handling here.,Code_Advice
+77,Refactor this outdated module.,Code_Advice
+78,Improve security for my web app.,Code_Advice
+79,Audit this code for compliance with coding standards.,Code_Advice
+80,Could you arrange a demo session for the new software next Wednesday?,Schedule_Arrangement
+81,Would you mind booking a flight for the upcoming global conference?,Schedule_Arrangement
+82,I’d appreciate it if you could organize a virtual meeting with our overseas partners.,Schedule_Arrangement
+83,It would be helpful to plan the annual general meeting for the end of this year.,Schedule_Arrangement
+84,Please schedule a review session for the recent project deliverables.,Schedule_Arrangement
+85,Could you coordinate a retreat for the management team next quarter?,Schedule_Arrangement
+86,Would you arrange transport and accommodation for the guest speakers?,Schedule_Arrangement
+87,Please handle the registration for the industry workshop next month.,Schedule_Arrangement
+88,Could you take care of arranging the office relocation schedule?,Schedule_Arrangement
+89,I would be grateful if you could confirm the dates for the external audit.,Schedule_Arrangement
+90,Arrange a demo session for the new software next Wednesday.,Schedule_Arrangement
+91,Book a flight for the upcoming global conference.,Schedule_Arrangement
+92,Organize a virtual meeting with our overseas partners.,Schedule_Arrangement
+93,Plan the annual general meeting for the end of this year.,Schedule_Arrangement
+94,Schedule a review session for the recent project deliverables.,Schedule_Arrangement
+95,Coordinate a retreat for the management team next quarter.,Schedule_Arrangement
+96,Arrange transport and accommodation for the guest speakers.,Schedule_Arrangement
+97,Handle registration for the industry workshop next month.,Schedule_Arrangement
+98,Arrange the office relocation schedule.,Schedule_Arrangement
+99,Confirm the dates for the external audit.,Schedule_Arrangement
+100,Would you kindly adjust the verb tenses in this document?,Grammar_Correction
+101,Could you please clarify the thesis statement in this paper?,Grammar_Correction
+102,I'd appreciate your help with simplifying the language in this guide.,Grammar_Correction
+103,It would be wonderful if you could enhance the formal tone of this letter.,Grammar_Correction
+104,Please review the structure of these paragraphs for better flow.,Grammar_Correction
+105,Could you ensure that this article is free from colloquial expressions?,Grammar_Correction
+106,I'd be thankful if you could align the bullet points with grammatical consistency.,Grammar_Correction
+107,Please check this proposal for any redundant phrases and remove them.,Grammar_Correction
+108,Could you polish the executive summary to ensure it's concise?,Grammar_Correction
+109,Would you mind ensuring that the instructions are easy to follow?,Grammar_Correction
+110,Adjust the verb tenses in this document.,Grammar_Correction
+111,Clarify the thesis statement in this paper.,Grammar_Correction
+112,Simplify the language in this guide.,Grammar_Correction
+113,Enhance the formal tone of this letter.,Grammar_Correction
+114,Review the structure of these paragraphs.,Grammar_Correction
+115,Ensure this article is free from colloquial expressions.,Grammar_Correction
+116,Align the bullet points with grammatical consistency.,Grammar_Correction
+117,Check this proposal for redundant phrases and remove them.,Grammar_Correction
+118,Polish the executive summary to ensure conciseness.,Grammar_Correction
+119,Ensure the instructions are easy to follow.,Grammar_Correction
+120,Could you please review this code for errors?,Code_Advice
+121,Would you mind helping me optimize this script?,Code_Advice
+122,I would appreciate your advice on improving this function.,Code_Advice
+123,It would be helpful if you could check this algorithm for efficiency.,Code_Advice
+124,Please suggest ways to enhance this code's readability.,Code_Advice
+125,Could you kindly explain this block of Python code?,Code_Advice
+126,I'd be grateful if you could review this SQL query for performance issues.,Code_Advice
+127,Would you please look over this JavaScript for any logical errors?,Code_Advice
+128,Could you consider giving feedback on this code structure?,Code_Advice
+129,I would value your input on error handling in this application.,Code_Advice
+130,Check this code for errors.,Code_Advice
+131,Optimize this script.,Code_Advice
+132,Improve this function.,Code_Advice
+133,Check this algorithm for efficiency.,Code_Advice
+134,Enhance this code's readability.,Code_Advice
+135,Explain this block of Python code.,Code_Advice
+136,Review this SQL query for performance.,Code_Advice
+137,Look over this JavaScript for errors.,Code_Advice
+138,Give feedback on this code structure.,Code_Advice
+139,Handle errors in this application.,Code_Advice
+140,Could you please arrange a meeting for next week?,Schedule_Arrangement
+141,Would you mind booking a room for tomorrow's session?,Schedule_Arrangement
+142,I would appreciate if you could reschedule the client call.,Schedule_Arrangement
+143,It would be helpful to organize the team dinner.,Schedule_Arrangement
+144,Please set up a monthly project review meeting.,Schedule_Arrangement
+145,Could you manage the arrangements for the upcoming workshop?,Schedule_Arrangement
+146,Would you mind preparing the schedule for the training sessions?,Schedule_Arrangement
+147,Could you please coordinate the travel plans?,Schedule_Arrangement
+148,I would value your help with the event logistics.,Schedule_Arrangement
+149,Please confirm the appointments for next Thursday.,Schedule_Arrangement
+150,Arrange a meeting for next week.,Schedule_Arrangement
+151,Book a room for tomorrow's session.,Schedule_Arrangement
+152,Reschedule the client call.,Schedule_Arrangement
+153,Organize the team dinner.,Schedule_Arrangement
+154,Set up a monthly project review meeting.,Schedule_Arrangement
+155,Arrange the workshop.,Schedule_Arrangement
+156,Prepare the schedule for training sessions.,Schedule_Arrangement
+157,Coordinate the travel plans.,Schedule_Arrangement
+158,Handle the event logistics.,Schedule_Arrangement
+159,Confirm the appointments for Thursday.,Schedule_Arrangement
+160,Could you kindly check this document for any grammatical errors?,Grammar_Correction
+161,Would you mind proofreading this report?,Grammar_Correction
+162,I would appreciate your help in editing this article.,Grammar_Correction
+163,It would be great if you could review this email for clarity.,Grammar_Correction
+164,Please take a look at this presentation for any syntax errors.,Grammar_Correction
+165,Could you possibly refine the wording in this proposal?,Grammar_Correction
+166,I'd be grateful if you could enhance the language in this brochure.,Grammar_Correction
+167,Would you please correct the punctuation in this manual?,Grammar_Correction
+168,Could you review the grammar in these blog posts?,Grammar_Correction
+169,Please ensure this letter adheres to standard English grammar.,Grammar_Correction
+170,Check this document for grammatical errors.,Grammar_Correction
+171,Proofread this report.,Grammar_Correction
+172,Edit this article.,Grammar_Correction
+173,Review this email for clarity.,Grammar_Correction
+174,Look at this presentation for syntax errors.,Grammar_Correction
+175,Refine the wording in this proposal.,Grammar_Correction
+176,Enhance the language in this brochure.,Grammar_Correction
+177,Correct the punctuation in this manual.,Grammar_Correction
+178,Review the grammar in these blog posts.,Grammar_Correction
+179,Ensure this letter follows standard English grammar.,Grammar_Correction
+180,Could you kindly tell me what is 87 + 13?,Math_Calculation
+181,Please let me know what 150 - 50 equals.,Math_Calculation
+182,I would appreciate it if you could calculate what 12 * 12 is.,Math_Calculation
+183,What is the result of 200 / 25? Could you please find out?,Math_Calculation
+184,Could you tell me what 100 + 200 is?,Math_Calculation
+185,Please find out what 300 - 150 comes to.,Math_Calculation
+186,Would it be possible for you to let me know what 8 * 9 is?,Math_Calculation
+187,I'd be grateful if you could determine what 256 / 8 is.,Math_Calculation
+188,Can you please calculate what 75 + 25 equals?,Math_Calculation
+189,Could you help me find out what 60 - 15 is?,Math_Calculation
+190,What does 7 * 7 come to? Please compute this.,Math_Calculation
+191,Might you tell me what 81 divided by 9 equals?,Math_Calculation
+192,Can you find out what 25 + 75 is for me?,Math_Calculation
+193,Please calculate what 500 - 250 results in.,Math_Calculation
+194,What is 10 * 10? I need this for a calculation.,Math_Calculation
+195,Could you tell me what 140 / 20 equals?,Math_Calculation
+196,What is the sum of 45 and 55? Please let me know.,Math_Calculation
+197,Would you find out what 90 - 30 is?,Math_Calculation
+198,Please compute what 15 * 4 equals.,Math_Calculation
+199,Could you please calculate what 360 / 6 is?,Math_Calculation
+200,What is the result of adding 23 and 77?,Math_Calculation
+201,Could you find out what subtracting 18 from 100 equals?,Math_Calculation
+202,What is 9 times 5? Please calculate it.,Math_Calculation
+203,Please let me know what 180 divided by 6 comes to.,Math_Calculation
+204,Could you determine what 68 + 32 equals?,Math_Calculation
+205,Would you kindly calculate 45 + 35 for me?,Math_Calculation
+206,Could you please find the result of 120 - 48?,Math_Calculation
+207,I would appreciate your help with solving 15 * 7.,Math_Calculation
+208,Could you possibly tell me what 180 / 12 is?,Math_Calculation
+209,Please compute 23 + 77 when you have a moment.,Math_Calculation
+210,Might you assist me by subtracting 64 from 200?,Math_Calculation
+211,It would be great if you could multiply 14 by 9.,Math_Calculation
+212,Would you mind calculating the division of 250 by 5?,Math_Calculation
+213,Can you please add 37 and 63?,Math_Calculation
+214,Would it be too much trouble to find out what 98 - 49 equals?,Math_Calculation
+215,I’d be grateful if you could multiply 6 by 8.,Math_Calculation
+216,Could you compute how many times 30 goes into 240?,Math_Calculation
+217,Would you assist me with adding 52 to 48?,Math_Calculation
+218,Please help me by subtracting 150 from 300.,Math_Calculation
+219,It would help if you could calculate 25 * 4.,Math_Calculation
+220,Please find the quotient of 180 divided by 6.,Math_Calculation
+221,Can you sum up 88 and 12 for me?,Math_Calculation
+222,Might I ask you to subtract 58 from 100?,Math_Calculation
+223,I would appreciate it if you could multiply 13 by 2.,Math_Calculation
+224,Could you determine what 64 divided by 8 is?,Math_Calculation
+225,It would be helpful to know the sum of 42 and 58.,Math_Calculation
+226,Please calculate what 300 minus 75 results in.,Math_Calculation
+227,Could you kindly find the product of 17 and 3?,Math_Calculation
+228,Please compute the result of 144 divided by 12.,Math_Calculation
+229,Would you be able to tell me the addition of 19 and 81?,Math_Calculation
+230,Calculate 12 + 34.,Math_Calculation
+231,Calculate 56 - 22.,Math_Calculation
+232,Calculate 9 * 8.,Math_Calculation
+233,Calculate 144 / 12.,Math_Calculation
+234,Calculate 7 + 19.,Math_Calculation
+235,Calculate 47 - 13.,Math_Calculation
+236,Calculate 11 * 11.,Math_Calculation
+237,Calculate 121 / 11.,Math_Calculation
+238,Calculate 15 + 85.,Math_Calculation
+239,Calculate 100 - 45.,Math_Calculation
+240,Calculate 6 * 7.,Math_Calculation
+241,Calculate 63 / 7.,Math_Calculation
+242,Calculate 21 + 79.,Math_Calculation
+243,Calculate 100 - 26.,Math_Calculation
+244,Calculate 5 * 12.,Math_Calculation
+245,Calculate 60 / 5.,Math_Calculation
+246,Calculate 32 + 68.,Math_Calculation
+247,Calculate 100 - 33.,Math_Calculation
+248,Calculate 3 * 15.,Math_Calculation
+249,Calculate 45 / 3.,Math_Calculation
+250,Calculate 24 + 76.,Math_Calculation
+251,Calculate 100 - 57.,Math_Calculation
+252,Calculate 14 * 2.,Math_Calculation
+253,Calculate 28 / 2.,Math_Calculation
+254,Calculate 18 + 82.,Math_Calculation
+255,Could you please add 134 and 289 for me?,Math_Calculation
+256,Would you mind subtracting 204 from 789?,Math_Calculation
+257,It would be great if you could multiply 56 by 77.,Math_Calculation
+258,Could you kindly divide 982 by 14?,Math_Calculation
+259,I would appreciate your help in calculating the sum of 352 and 468.,Math_Calculation
+260,Would it be possible to determine the difference between 670 and 323?,Math_Calculation
+261,Please could you multiply 48 by 64.,Math_Calculation
+262,I need assistance finding the quotient of 2100 divided by 70.,Math_Calculation
+263,"Could you possibly add 27, 59, and 83 together?",Math_Calculation
+264,Would you mind calculating what 500 minus 146 is?,Math_Calculation
+265,It would be helpful if you could compute 200 times 11.,Math_Calculation
+266,Please help me by dividing 2468 by 62.,Math_Calculation
+267,Can you sum up 130 and 579 for me?,Math_Calculation
+268,Would you be able to subtract 300 from 950?,Math_Calculation
+269,I'd like you to multiply 34 by 21.,Math_Calculation
+270,Could you calculate how many times 100 can fit into 1600?,Math_Calculation
+271,I would be grateful if you could find the total of 99 and 201.,Math_Calculation
+272,Could you please determine what remains after subtracting 750 from 2000?,Math_Calculation
+273,It would be useful to calculate 360 times 8.,Math_Calculation
+274,Please divide 1950 by 15 and let me know the result.,Math_Calculation
+275,Add 458 and 322.,Math_Calculation
+276,Subtract 1050 from 3000.,Math_Calculation
+277,Multiply 141 by 23.,Math_Calculation
+278,Divide 484 by 22.,Math_Calculation
+279,Calculate the sum of 189 and 764.,Math_Calculation
+280,Determine the difference between 920 and 435.,Math_Calculation
+281,Multiply 354 by 76.,Math_Calculation
+282,Find the quotient of 600 divided by 25.,Math_Calculation
+283,"Add 62, 17, and 89.",Math_Calculation
+284,Subtract 512 from 890.,Math_Calculation
+285,Calculate 142 times 27.,Math_Calculation
+286,Divide 1444 by 32.,Math_Calculation
+287,Sum up 203 and 698.,Math_Calculation
+288,Subtract 100 from 450.,Math_Calculation
+289,Multiply 85 by 9.,Math_Calculation
+290,Find how many times 50 goes into 1250.,Math_Calculation
+291,Calculate the total of 221 and 330.,Math_Calculation
+292,Determine how much 2200 decreases when 1300 is subtracted.,Math_Calculation
+293,Calculate 480 times 15.,Math_Calculation
+294,Divide 930 by 10.,Math_Calculation
+295,Review this JavaScript function for errors.,Code_Advice
+296,Help me optimize this SQL database query.,Code_Advice
+297,Suggest a better algorithm for this problem.,Code_Advice
+298,Debug this Python script that isn't running.,Code_Advice
+299,Explain this chunk of C++ code to me.,Code_Advice
+300,Optimize this Java loop for better performance.,Code_Advice
+301,Check this PHP code for security flaws.,Code_Advice
+302,Guide me on Ruby best practices.,Code_Advice
+303,Help fix memory leaks in this C# application.,Code_Advice
+304,Suggest cleaner ways to handle exceptions in this code.,Code_Advice
+305,Review my API integration approach.,Code_Advice
+306,Advise on improving this mobile app's responsiveness.,Code_Advice
+307,Help me set up a Git workflow.,Code_Advice
+308,Explain how MVC architecture works in web apps.,Code_Advice
+309,Optimize this CSS for better browser compatibility.,Code_Advice
+310,Debug this batch script for automation tasks.,Code_Advice
+311,Suggest plugins to enhance this WordPress site.,Code_Advice
+312,Help refactor this spaghetti code into clean code.,Code_Advice
+313,Review my JSON handling in this application.,Code_Advice
+314,Explain how recursion works in this Python example.,Code_Advice
+315,Set up a meeting with the sales team for Monday at 10 AM.,Schedule_Arrangement
+316,Book a conference room for next Wednesday afternoon.,Schedule_Arrangement
+317,Reschedule my doctor's appointment to next Friday.,Schedule_Arrangement
+318,Arrange a lunch with the client at The Italian Place.,Schedule_Arrangement
+319,Organize a team outing for next quarter.,Schedule_Arrangement
+320,Book my flight and hotel for the Las Vegas conference.,Schedule_Arrangement
+321,Set up a weekly check-in call with the project team.,Schedule_Arrangement
+322,Organize the agenda for next month's board meeting.,Schedule_Arrangement
+323,Coordinate the guest speaker for the annual meeting.,Schedule_Arrangement
+324,Schedule a performance review for my team.,Schedule_Arrangement
+325,Arrange video interviews with the shortlisted candidates.,Schedule_Arrangement
+326,Set up training sessions for new software.,Schedule_Arrangement
+327,Book a venue for the company’s 20th-anniversary event.,Schedule_Arrangement
+328,Organize a team-building exercise next month.,Schedule_Arrangement
+329,Schedule maintenance for the office HVAC system.,Schedule_Arrangement
+330,Arrange transport for the company retreat.,Schedule_Arrangement
+331,Book tickets for the industry expo.,Schedule_Arrangement
+332,Schedule a series of client follow-up meetings.,Schedule_Arrangement
+333,Organize the logistics for the overseas team visit.,Schedule_Arrangement
+334,Confirm the schedule for the product launch.,Schedule_Arrangement
+335,Fix the grammar in this email.,Grammar_Correction
+336,Correct the punctuation in this report.,Grammar_Correction
+337,Review this article for grammatical errors.,Grammar_Correction
+338,Edit the grammar in this book chapter.,Grammar_Correction
+339,Proofread this presentation for clear syntax.,Grammar_Correction
+340,Check this instruction manual for language accuracy.,Grammar_Correction
+341,Correct verb tenses in this narrative.,Grammar_Correction
+342,Ensure this blog post uses correct English.,Grammar_Correction
+343,Amend the sentence structure in this application letter.,Grammar_Correction
+344,Refine the word choice in this marketing material.,Grammar_Correction
+345,Correct passive voice misuse in this research paper.,Grammar_Correction
+346,Fix article usage in this technical guide.,Grammar_Correction
+347,Ensure subject-verb agreement in these bullet points.,Grammar_Correction
+348,Proofread this script for a play.,Grammar_Correction
+349,Edit this newsletter for grammatical consistency.,Grammar_Correction
+350,Review the syntax in this software manual.,Grammar_Correction
+351,Correct the pronoun antecedents in this thesis.,Grammar_Correction
+352,Check this resume for grammatical correctness.,Grammar_Correction
+353,Refine the language in this business proposal.,Grammar_Correction
+354,Ensure this user guide is free from grammatical mistakes.,Grammar_Correction
+355,Can you help me debug this piece of code?,Code_Advice
+356,Please review my script for any potential errors.,Code_Advice
+357,I need assistance with optimizing my Python code.,Code_Advice
+358,Could you suggest improvements for my JavaScript function?,Code_Advice
+359,Can you explain how this algorithm works?,Code_Advice
+360,Please help me understand this SQL query.,Code_Advice
+361,I need advice on choosing the best library for data analysis.,Code_Advice
+362,Could you guide me on how to write more efficient loops?,Code_Advice
+363,Can you show me how to implement recursion in this scenario?,Code_Advice
+364,Please check my code for memory leaks.,Code_Advice
+365,I need help with error handling in my application.,Code_Advice
+366,Could you review my code for security vulnerabilities?,Code_Advice
+367,Can you help me understand asynchronous programming in JavaScript?,Code_Advice
+368,Please advise on the best practices for API integration.,Code_Advice
+369,I need guidance on using frameworks for web development.,Code_Advice
+370,Could you help me with version control techniques?,Code_Advice
+371,Can you explain object-oriented programming concepts?,Code_Advice
+372,Please help me set up a development environment.,Code_Advice
+373,I need advice on writing unit tests for my code.,Code_Advice
+374,Could you help me refactor this block of code?,Code_Advice
+375,Can you help me schedule a meeting with the team next week?,Schedule_Arrangement
+376,Please arrange a conference call for tomorrow afternoon.,Schedule_Arrangement
+377,"I need to reschedule my appointment to a later date, can you assist?",Schedule_Arrangement
+378,Could you set up a lunch meeting for next Thursday?,Schedule_Arrangement
+379,Can you book a room for our project meeting this Friday?,Schedule_Arrangement
+380,Please organize a team building session for next month.,Schedule_Arrangement
+381,"I need help coordinating a webinar, can you set it up?",Schedule_Arrangement
+382,Could you manage the invitations for the workshop next week?,Schedule_Arrangement
+383,Can you arrange travel and accommodation for the upcoming conference?,Schedule_Arrangement
+384,Please fix a date for the quarterly review meeting.,Schedule_Arrangement
+385,I need assistance planning the annual general meeting.,Schedule_Arrangement
+386,Can you help coordinate the client visits for next week?,Schedule_Arrangement
+387,Please arrange the schedule for the training sessions next quarter.,Schedule_Arrangement
+388,Could you book the flight and hotel for my business trip?,Schedule_Arrangement
+389,Can you find a suitable time for a video call with overseas clients?,Schedule_Arrangement
+390,Please arrange a recurring meeting for the project team.,Schedule_Arrangement
+391,I need you to update the team calendar with the new deadlines.,Schedule_Arrangement
+392,Could you organize a retreat for the management team?,Schedule_Arrangement
+393,Can you secure a venue for the end-of-year party?,Schedule_Arrangement
+394,Please arrange the briefing session for new interns.,Schedule_Arrangement
+395,Can you check if this sentence is grammatically correct?,Grammar_Correction
+396,Could you help me correct the grammar in this text?,Grammar_Correction
+397,Please review this paragraph for any grammatical mistakes.,Grammar_Correction
+398,I need assistance with grammar corrections in my essay.,Grammar_Correction
+399,Could you point out any grammatical errors in this article?,Grammar_Correction
+400,Can you help me fix the syntax errors in these sentences?,Grammar_Correction
+401,Would you mind checking the grammar in this document?,Grammar_Correction
+402,Can you proofread this email for grammatical accuracy?,Grammar_Correction
+403,Please identify any incorrect grammar in these instructions.,Grammar_Correction
+404,Could you assist me in revising the grammar of this report?,Grammar_Correction
+405,I would appreciate your help in correcting the sentence structure here.,Grammar_Correction
+406,Can you ensure that this presentation is free from grammatical errors?,Grammar_Correction
+407,Please help me adjust the grammar in this proposal.,Grammar_Correction
+408,Could you review the grammar in these responses for accuracy?,Grammar_Correction
+409,I need your expertise in correcting grammatical mistakes in this summary.,Grammar_Correction
+410,Can you edit this script to improve its grammatical correctness?,Grammar_Correction
+411,Would you help me correct any grammar mistakes in this manuscript?,Grammar_Correction
+412,Can you check this thesis statement for grammatical errors?,Grammar_Correction
+413,Please help me fine-tune the grammar in these blog posts.,Grammar_Correction
+414,Could you analyze and correct the grammar in these comments?,Grammar_Correction
+415,Can you schedule a meeting for tomorrow at 3 PM?,Schedule_Arrangement
+416,Please suggest improvements for this piece of code.,Code_Advice
+417,I need advice on refactoring this function.,Code_Advice
+418,Can you review this code snippet for errors?,Code_Advice
+419,I would like to have a reminder for an anniversary on July 20.,Schedule_Arrangement
+420,Check my English: 'I goes to school.',Grammar_Correction
+421,How much is 7 minus 5?,Math_Calculation
+422,Correct my sentence: 'We was happy yesterday.',Grammar_Correction
+423,Could you organize my calendar for next week?,Schedule_Arrangement
+424,Could you help me debug this script?,Code_Advice
+425,Find mistakes in this: 'They is playing football.',Grammar_Correction
+426,How can I optimize this algorithm?,Code_Advice
+427,Do you know what's 100 divided by 4?,Math_Calculation
+428,What's 1+3?,Math_Calculation
+429,Please arrange a call with John on Wednesday.,Schedule_Arrangement
+430,Is this correct: 'She have two cats.'?,Grammar_Correction
+431,I need to set up a doctor's appointment for next Monday.,Schedule_Arrangement
+432,Calculate 15 times 2 for me.,Math_Calculation
+433,Can you figure out 56 plus 13?,Math_Calculation
+434,Any errors here: 'He don't like pizza.',Grammar_Correction
